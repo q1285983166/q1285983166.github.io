@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e7c3"],{d683:function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"UserCoupon"},[e("van-empty",{attrs:{description:"暂无优惠劵"}})],1)},c=[],a=e("2877"),r={},u=Object(a["a"])(r,s,c,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d21e7c3.4769bdb6.js.map
